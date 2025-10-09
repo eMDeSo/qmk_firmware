@@ -121,3 +121,6 @@ compile_commands.json
 via*.json
 /keyboards/**/keymaps/via/*
 /keyboards/**/keymaps/vial/*
+
+# Personal backup folder
+qmk_firmware_backup/
